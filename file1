@@ -1,4 +1,8 @@
 new line
 test
 file
+<<<<<<< Updated upstream
 third line
+=======
+second
+>>>>>>> Stashed changes
